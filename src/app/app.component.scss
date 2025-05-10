@@ -1,0 +1,25 @@
+@import '../styles.scss';
+
+main {
+    height: 100vh;
+    width: 100vw;
+}
+
+.card-profile {
+    background-color: $grey-800;
+}
+
+ul {
+    padding: 0;
+}
+
+.link {
+    background-color: $grey-700;
+    font-weight: $font-semibold;
+    font-size: 14px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 0.8rem !important;
+    padding: 10px;
+}

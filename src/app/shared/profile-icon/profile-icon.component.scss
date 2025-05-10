@@ -1,0 +1,22 @@
+@import '../../../styles.scss';
+
+.profile-icon {
+    width: 80px;
+    height: 80px;
+}
+
+.name {
+    font-size: 1.5rem;
+    font-weight: $font-regular;
+}
+
+.address {
+    font-weight: $font-regular;
+    color: $green;
+    font-size: 0.875rem;
+}
+
+.slogan {
+    font-weight: $font-light;
+    font-size: 0.875rem;
+}
